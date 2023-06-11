@@ -1,0 +1,7 @@
+{
+  "name": "vue-ionic-sqlite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
